@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "123@hey.com",
+      "pwd": "123"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "code": "json-server",
+      "name": "moudar",
+      "description": "he's cool",
+      "category": "25",
+      "quantity": "1",
+      "measure": "kg",
+      "price": "3"
+    },
+    {
+      "name": "yes an apple",
+      "description": "an apple a day keeps the doctor away",
+      "category": 25,
+      "quantity": 3,
+      "measure": "kg",
+      "price": 1,
+      "id": 4
+    },
+    {
+      "name": "kiwi",
+      "description": "google's megamind head",
+      "category": 20,
+      "quantity": 10,
+      "measure": "kg",
+      "price": 4,
+      "id": 7
+    },
+    {
+      "name": "omda",
+      "code": "XPO9asda",
+      "description": "123",
+      "category": 20,
+      "quantity": 3,
+      "measure": "kg",
+      "price": 3,
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 10,
+      "name": "newCat"
+    },
+    {
+      "id": 20,
+      "name": "food"
+    },
+    {
+      "id": 25,
+      "name": "other"
+    }
+  ]
+}
